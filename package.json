@@ -6,6 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "files": [
+    "app",
+    "index.js",
+    "README.md"
+  ],
   "author": "George <7jagjag@gmail.com>",
   "license": "MIT"
 }
