@@ -6,16 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "files": [
-    "app/.editorconfig",
-    "app/.eslintrc",
-    "app/.gitignore",
-    "app/.npmignore",
-    "app/.nvm",
-    "app/.travis.yml",
-    "app/",
-    "index.js"
-  ],
   "author": "George <7jagjag@gmail.com>",
   "license": "MIT"
 }
