@@ -1,5 +1,5 @@
 {
-  "name": "yagg-node-open-source",
+  "name": "yagg-node-open-source-node-open-source",
   "version": "0.0.9",
   "description": "",
   "main": "index.js",
@@ -7,9 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "files": [
-    "app/*",
+    "app/",
     "index.js"
   ],
   "author": "George <7jagjag@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g3org3/yagg-node-open-source.git"
+  },
+  "bugs": {
+    "url": "https://github.com/g3org3/yagg-node-open-source/issues"
+  },
+  "homepage": "https://github.com/g3org3/yagg-node-open-source#readme",
 }
