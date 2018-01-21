@@ -1,11 +1,15 @@
 {
   "name": "yagg-node-open-source",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "files": [
+    "app/*",
+    "index.js"
+  ],
   "author": "George <7jagjag@gmail.com>",
   "license": "MIT"
 }
